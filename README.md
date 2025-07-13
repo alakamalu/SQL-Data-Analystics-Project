@@ -1,4 +1,4 @@
-# 🧠 Advanced SQL Analytics Project – Customer & Product Insights
+# 🧠 Advanced SQL Data Analytics Project – Customer & Product Insights
 
 Welcome to the **Advanced SQL Analytics Project**, a real-world end-to-end data analytics solution powered entirely by **SQL**. This project simulates how data analysts work with large datasets to generate actionable insights, build performance KPIs, and deliver clean, ready-to-use reporting views for business stakeholders and dashboard tools (e.g., Power BI, Tableau).
 
