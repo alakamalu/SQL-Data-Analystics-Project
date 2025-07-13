@@ -2,7 +2,6 @@
 
 Welcome to the **Advanced SQL Analytics Project**, a real-world end-to-end data analytics solution powered entirely by **SQL**. This project simulates how data analysts work with large datasets to generate actionable insights, build performance KPIs, and deliver clean, ready-to-use reporting views for business stakeholders and dashboard tools (e.g., Power BI, Tableau).
 
----
 
 ## 📌 Project Objectives
 
@@ -12,7 +11,6 @@ Welcome to the **Advanced SQL Analytics Project**, a real-world end-to-end data 
 * ✅ Build **final reporting views** for use by analysts or dashboard developers
 * ✅ Demonstrate a full **analytics pipeline** using SQL from raw data to insight delivery
 
----
 
 ## 📊 Key Features
 
@@ -41,7 +39,6 @@ Welcome to the **Advanced SQL Analytics Project**, a real-world end-to-end data 
 
   * Total orders, customers, quantity, sales
 
----
 
 ## 🛠️ SQL Techniques Used
 
@@ -51,8 +48,6 @@ Welcome to the **Advanced SQL Analytics Project**, a real-world end-to-end data 
 * Date difference calculations
 * Derived KPIs
 * View creation for reporting layers
-
----
 
 ## 🗂️ Project Structure
 
@@ -83,29 +78,24 @@ sql-analytics-project/
 └── README.md  ← you are here
 ```
 
----
-
 ## 📎 Tools & Environment
 
 * SQL Server (or any modern RDBMS)
 * Power BI / Tableau (for visualization)
 * GitHub (for collaboration and versioning)
 
----
 
 ## 🤝 Acknowledgment
 
 This project is inspired by a practical YouTube tutorial series on SQL analytics. It has been extended and customized to reflect real-world reporting practices.
 
----
 
 ## 🙋‍♀️ About Me
 
 Hi! I’m Alaka, an aspiring **Data Analyst** passionate about turning data into actionable insight. This project is part of my learning journey into business analytics using SQL.
 
-Feel free to check out my other projects or connect with me on [LinkedIn]((https://www.linkedin.com/in/alakap01)).
+Feel free to check out my other projects or connect with me on [LinkedIn](https://www.linkedin.com/in/alakap01).
 
----
 
 ## ⭐ If you found this helpful
 
