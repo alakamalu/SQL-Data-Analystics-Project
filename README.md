@@ -103,7 +103,7 @@ This project is inspired by a practical YouTube tutorial series on SQL analytics
 
 Hi! I’m Alaka, an aspiring **Data Analyst** passionate about turning data into actionable insight. This project is part of my learning journey into business analytics using SQL.
 
-Feel free to check out my other projects or connect with me on [LinkedIn](#).
+Feel free to check out my other projects or connect with me on [LinkedIn]((https://www.linkedin.com/in/alakap01)).
 
 ---
 
@@ -111,4 +111,3 @@ Feel free to check out my other projects or connect with me on [LinkedIn](#).
 
 Star ⭐ the repo, share it, or drop a message—your support means a lot!
 
----
